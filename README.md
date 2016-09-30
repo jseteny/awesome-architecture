@@ -6,7 +6,8 @@ A collaborative list of awesome Software Architecture resources. Feel free to co
 I want to deal here with the architecture of middle to large software systems.
 
 ## Where to focus
-* [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) (One of the fathers of the idea of object-oriented programming. Other contibutions: Smalltalk, the modern overlapping windowing graphical user interface (GUI), etc
+* [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) who is one of the fathers of the idea of object-oriented programming wrote the following:
   **"The key in making great and growable systems is much more to design how its
  modules communicate rather than what their internal properties and
- behaviors should be."** Please see his article [here](http://c2.com/cgi/wiki?AlanKayOnMessaging)
+ behaviors should be."** Please see the whole article [here.](http://c2.com/cgi/wiki?AlanKayOnMessaging)
+  Other contributions of Alan Kay: Smalltalk and the modern overlapping windowing graphical user interface (GUI)
