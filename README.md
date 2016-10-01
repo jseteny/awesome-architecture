@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jseteny/awesome-architecture.png?label=ready&title=Ready)](https://waffle.io/jseteny/awesome-architecture)
 # Awesome Software Architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
